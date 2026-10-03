@@ -1,0 +1,10 @@
+{
+  "name": "test-simple-stock-flow-tool",
+  "version": "1.0.0",
+  "description": "CLI Seeder que consume la API REST de Simple Stock Flow vía HTTP",
+  "main": "src/seed.js",
+  "type": "module",
+  "scripts": {
+    "seed": "node src/seed.js"
+  }
+}
